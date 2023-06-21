@@ -14,3 +14,8 @@ public int TestMethod2()
 {
     return 1;
 }
+
+public string TestMethod3(string dupa)
+{
+    return dupa;
+}
