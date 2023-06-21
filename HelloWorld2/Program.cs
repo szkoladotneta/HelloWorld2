@@ -14,3 +14,8 @@ public int TestMethod2()
 {
     return 1;
 }
+
+public DateTime TestMethod3(DateTime dupaDate)
+{
+    return dupaDate;
+}
