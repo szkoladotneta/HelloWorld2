@@ -15,7 +15,12 @@ public int TestMethod2()
     return 1;
 }
 
-public string TestMethod3(string dupa)
+public DateTime TestMethod3(DateTime dupaDate)
+{
+    return dupaDate;
+}
+
+public string TestMethod4(string dupa)
 {
     return dupa;
 }
