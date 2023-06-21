@@ -19,3 +19,8 @@ public DateTime TestMethod3(DateTime dupaDate)
 {
     return dupaDate;
 }
+
+public string TestMethod4(string dupa)
+{
+    return dupa;
+}
